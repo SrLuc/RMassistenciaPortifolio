@@ -15,8 +15,15 @@
   transform: scale(1.1);
 }
 
+/*Titulo da home*/
 .title-h1-home{
   color:#83abb4
+}
+
+/*Botao secundario da home*/
+.contact-home-button{
+  margin: 0 35px;
+  
 }
 
 *{
