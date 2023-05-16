@@ -1,16 +1,6 @@
+# RM Assistência Med
+A RM Assistência Med é uma empresa especializada no setor de gases medicinais e industriais, fornecendo uma ampla variedade de gases e serviços relacionados, incluindo instalação, manutenção e assistência técnica em equipamentos relacionados.
 
-# RM Assitência Med
-
-Essa empresa atua no setor de gases medicinal e industrial, oferecendo uma ampla variedade de gases e serviços relacionados a instalação, manutenção e assistência técnica em equipamentos relacionados.
-
-Além disso, a empresa oferece serviços de consultoria e suporte técnico para ajudar os clientes a escolherem o gás correto para suas aplicações específicas e garantir a eficiência e segurança em todas as suas operações
-
-
-
-
-
-## Stack 
-
-**Front-end:** HTML, CSS, JS, BOOTSTRAP
-
-
+## Tecnologias Utilizadas
+**Nosso sistema é desenvolvido utilizando as seguintes tecnologias:**
+Front-end: Utilizamos HTML, CSS e JavaScript para desenvolver a interface do nosso sistema. Além disso, utilizamos o framework Bootstrap para agilizar o desenvolvimento e garantir um design responsivo e moderno.
